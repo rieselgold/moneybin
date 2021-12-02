@@ -2,3 +2,5 @@
 .htaccess
 +moneybin.tiled-project
 +moneybin.tiled-session
+*.tiled-project
+*.tiled-session
