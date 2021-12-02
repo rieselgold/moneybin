@@ -48,7 +48,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"second.json#startFromUp"
+                 "value":"02.json#startFromUp"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -66,7 +66,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"fourth.json#startFromDown"
+                 "value":"04.json#startFromDown"
                 }],
          "type":"tilelayer",
          "visible":true,
