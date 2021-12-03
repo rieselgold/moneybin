@@ -48,7 +48,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"first.json#startElev"
+                 "value":"01.json#startElev"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -66,7 +66,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"second.json#startElev"
+                 "value":"02.json#startElev"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -84,7 +84,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"third.json#startElev"
+                 "value":"03.json#startElev"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -102,7 +102,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"eleven.json#startElev"
+                 "value":"11.json#startElev"
                 }],
          "type":"tilelayer",
          "visible":true,
