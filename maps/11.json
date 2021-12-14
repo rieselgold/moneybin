@@ -178,12 +178,12 @@
                 {
                  "name":"doorVariable",
                  "type":"string",
-                 "value":"storageDoor"
+                 "value":"binDoor"
                 }, 
                 {
                  "name":"zone",
                  "type":"string",
-                 "value":"storageZone"
+                 "value":"binDoorZone"
                 }],
          "type":"tilelayer",
          "visible":true,
