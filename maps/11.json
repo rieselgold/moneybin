@@ -186,6 +186,11 @@
                  "value":"binDoor"
                 }, 
                 {
+                 "name":"openTriggerMessage",
+                 "type":"string",
+                 "value":"Enter Code..."
+                }, 
+                {
                  "name":"zone",
                  "type":"string",
                  "value":"binDoorOutZone"
