@@ -102,7 +102,7 @@
                 {
                  "name":"autoClose",
                  "type":"bool",
-                 "value":false
+                 "value":true
                 }, 
                 {
                  "name":"autoOpen",
@@ -400,8 +400,8 @@
                  "type":"variable",
                  "visible":true,
                  "width":0,
-                 "x":1338.57920303883,
-                 "y":22.4405566309946
+                 "x":1331.57920303883,
+                 "y":33.4405566309946
                 }],
          "opacity":1,
          "type":"objectgroup",
