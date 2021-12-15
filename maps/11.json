@@ -747,35 +747,8 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":0,
                  "id":5,
-                 "name":"parrotDoor",
-                 "point":true,
-                 "properties":[
-                        {
-                         "name":"closeLayer",
-                         "type":"string",
-                         "value":"parrotClose"
-                        }, 
-                        {
-                         "name":"default",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
-                         "name":"door",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"openLayer",
-                         "type":"string",
-                         "value":"parrotOpen"
-                        }],
-                 "rotation":0,
-                 "type":"variable",
-                 "visible":true,
-                 "width":0,
+                 "template":"..\/working\/Door.tx",
                  "x":624.333333333333,
                  "y":141.666666666667
                 }, 
