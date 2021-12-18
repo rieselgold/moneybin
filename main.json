@@ -253,12 +253,12 @@
                 {
                  "name":"doorVariable",
                  "type":"string",
-                 "value":"binDoor"
+                 "value":"roofDoor"
                 }, 
                 {
                  "name":"zone",
                  "type":"string",
-                 "value":"binDoorZone"
+                 "value":"roofDoorZone"
                 }],
          "type":"tilelayer",
          "visible":true,
