@@ -706,7 +706,7 @@
                         {
                          "name":"closeLayer",
                          "type":"string",
-                         "value":"elevatorDoorClose1\nelevatorDoorClose2"
+                         "value":"elevatorClose1\nelevatorClose2"
                         }, 
                         {
                          "name":"default",
@@ -721,7 +721,7 @@
                         {
                          "name":"openLayer",
                          "type":"string",
-                         "value":"elevatorDoorOpen1\nelevatorDoorOpen2"
+                         "value":"elevatorOpen1\nelevatorOpen2"
                         }],
                  "rotation":0,
                  "type":"variable",
