@@ -456,7 +456,7 @@
                  "value":"minesZone"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":44,
          "x":0,
          "y":0
