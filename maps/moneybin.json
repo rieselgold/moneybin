@@ -48,7 +48,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"12.json#startFromDown"
+                 "value":"11.json#startFromBin"
                 }],
          "type":"tilelayer",
          "visible":true,
