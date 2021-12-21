@@ -22,12 +22,12 @@
                 {
                  "name":"doorVariable",
                  "type":"string",
-                 "value":""
+                 "value":"01"
                 }, 
                 {
                  "name":"zone",
                  "type":"string",
-                 "value":""
+                 "value":"01zone"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -55,12 +55,12 @@
                 {
                  "name":"doorVariable",
                  "type":"string",
-                 "value":""
+                 "value":"02"
                 }, 
                 {
                  "name":"zone",
                  "type":"string",
-                 "value":""
+                 "value":"02zone"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -88,12 +88,12 @@
                 {
                  "name":"doorVariable",
                  "type":"string",
-                 "value":""
+                 "value":"03"
                 }, 
                 {
                  "name":"zone",
                  "type":"string",
-                 "value":""
+                 "value":"03zone"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -121,12 +121,12 @@
                 {
                  "name":"doorVariable",
                  "type":"string",
-                 "value":""
+                 "value":"04"
                 }, 
                 {
                  "name":"zone",
                  "type":"string",
-                 "value":""
+                 "value":"04zone"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -154,12 +154,12 @@
                 {
                  "name":"doorVariable",
                  "type":"string",
-                 "value":""
+                 "value":"05"
                 }, 
                 {
                  "name":"zone",
                  "type":"string",
-                 "value":""
+                 "value":"05zone"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -187,12 +187,12 @@
                 {
                  "name":"doorVariable",
                  "type":"string",
-                 "value":""
+                 "value":"06"
                 }, 
                 {
                  "name":"zone",
                  "type":"string",
-                 "value":""
+                 "value":"06zone"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -220,12 +220,12 @@
                 {
                  "name":"doorVariable",
                  "type":"string",
-                 "value":""
+                 "value":"07"
                 }, 
                 {
                  "name":"zone",
                  "type":"string",
-                 "value":""
+                 "value":"07zone"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -253,12 +253,12 @@
                 {
                  "name":"doorVariable",
                  "type":"string",
-                 "value":""
+                 "value":"08"
                 }, 
                 {
                  "name":"zone",
                  "type":"string",
-                 "value":""
+                 "value":"08zone"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -286,12 +286,12 @@
                 {
                  "name":"doorVariable",
                  "type":"string",
-                 "value":""
+                 "value":"09"
                 }, 
                 {
                  "name":"zone",
                  "type":"string",
-                 "value":""
+                 "value":"09step"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -319,12 +319,12 @@
                 {
                  "name":"doorVariable",
                  "type":"string",
-                 "value":""
+                 "value":"11"
                 }, 
                 {
                  "name":"zone",
                  "type":"string",
-                 "value":""
+                 "value":"11zone"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -352,12 +352,12 @@
                 {
                  "name":"doorVariable",
                  "type":"string",
-                 "value":""
+                 "value":"12"
                 }, 
                 {
                  "name":"zone",
                  "type":"string",
-                 "value":""
+                 "value":"12zone"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -385,12 +385,12 @@
                 {
                  "name":"doorVariable",
                  "type":"string",
-                 "value":""
+                 "value":"13"
                 }, 
                 {
                  "name":"zone",
                  "type":"string",
-                 "value":""
+                 "value":"13zone"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -418,12 +418,12 @@
                 {
                  "name":"doorVariable",
                  "type":"string",
-                 "value":""
+                 "value":"14"
                 }, 
                 {
                  "name":"zone",
                  "type":"string",
-                 "value":""
+                 "value":"14zone"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -451,12 +451,12 @@
                 {
                  "name":"doorVariable",
                  "type":"string",
-                 "value":""
+                 "value":"15"
                 }, 
                 {
                  "name":"zone",
                  "type":"string",
-                 "value":""
+                 "value":"15zone"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -484,12 +484,12 @@
                 {
                  "name":"doorVariable",
                  "type":"string",
-                 "value":""
+                 "value":"16"
                 }, 
                 {
                  "name":"zone",
                  "type":"string",
-                 "value":""
+                 "value":"16zone"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -517,12 +517,12 @@
                 {
                  "name":"doorVariable",
                  "type":"string",
-                 "value":""
+                 "value":"main"
                 }, 
                 {
                  "name":"zone",
                  "type":"string",
-                 "value":""
+                 "value":"mainZone"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -550,12 +550,12 @@
                 {
                  "name":"doorVariable",
                  "type":"string",
-                 "value":""
+                 "value":"elevator"
                 }, 
                 {
                  "name":"zone",
                  "type":"string",
-                 "value":""
+                 "value":"elevatorZone"
                 }],
          "type":"tilelayer",
          "visible":true,
