@@ -148,8 +148,8 @@
                 }, 
                 {
                  "name":"audioVolume",
-                 "type":"string",
-                 "value":"0.5"
+                 "type":"float",
+                 "value":0.5
                 }, 
                 {
                  "name":"playAudio",
@@ -176,8 +176,8 @@
                 }, 
                 {
                  "name":"audioVolume",
-                 "type":"string",
-                 "value":"0.1"
+                 "type":"float",
+                 "value":0.1
                 }, 
                 {
                  "name":"playAudio",
@@ -497,12 +497,12 @@
                         {
                          "name":"default",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }, 
                         {
                          "name":"door",
                          "type":"bool",
-                         "value":false
+                         "value":true
                         }, 
                         {
                          "name":"openLayer",
@@ -530,12 +530,12 @@
                         {
                          "name":"default",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }, 
                         {
                          "name":"door",
                          "type":"bool",
-                         "value":false
+                         "value":true
                         }, 
                         {
                          "name":"openLayer",
@@ -563,12 +563,12 @@
                         {
                          "name":"default",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }, 
                         {
                          "name":"door",
                          "type":"bool",
-                         "value":false
+                         "value":true
                         }, 
                         {
                          "name":"openLayer",
@@ -596,12 +596,12 @@
                         {
                          "name":"default",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }, 
                         {
                          "name":"door",
                          "type":"bool",
-                         "value":false
+                         "value":true
                         }, 
                         {
                          "name":"openLayer",
