@@ -973,7 +973,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"\"The Money Bin\""
+         "value":"The Money Bin"
         }, 
         {
          "name":"script",
