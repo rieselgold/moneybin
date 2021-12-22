@@ -436,6 +436,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilies",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -459,6 +465,12 @@
          "imagewidth":640,
          "margin":0,
          "name":"Schilder",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":400,
          "tileheight":32,
@@ -472,6 +484,12 @@
          "imagewidth":768,
          "margin":0,
          "name":"Room_Builder_3d_walls_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":1320,
          "tileheight":32,
@@ -485,6 +503,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"26_Condominium_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":304,
          "tileheight":32,
@@ -517,6 +541,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"3_Bathroom_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":896,
          "tileheight":32,
@@ -530,6 +560,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"5_Classroom_and_library_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":544,
          "tileheight":32,
@@ -543,6 +579,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"Modern_Office_Shadowless_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":848,
          "tileheight":32,
@@ -556,6 +598,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"ticket_machine_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":32,
          "tileheight":32,
@@ -1114,6 +1162,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"13_Conference_Hall_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":192,
          "tileheight":32,
@@ -1127,6 +1181,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"18_Jail_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":720,
          "tileheight":32,
@@ -1159,6 +1219,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"Interiors_free_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":1424,
          "tileheight":32,
@@ -1172,6 +1238,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-functionary",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -1185,6 +1257,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"rc3-logo",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":100,
          "tileheight":32,

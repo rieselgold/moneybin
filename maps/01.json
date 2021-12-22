@@ -970,6 +970,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilies",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -1012,6 +1018,12 @@
          "imagewidth":416,
          "margin":0,
          "name":"spider-animated1",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":52,
          "tileheight":32,
@@ -1398,6 +1410,12 @@
          "imagewidth":404,
          "margin":0,
          "name":"animated_trapdoor_64",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":24,
          "tileheight":32,
@@ -1411,6 +1429,12 @@
          "imagewidth":768,
          "margin":0,
          "name":"Room_Builder_3d_walls_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":1320,
          "tileheight":32,
@@ -1424,6 +1448,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"26_Condominium_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":304,
          "tileheight":32,
@@ -1437,6 +1467,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"security_camera",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":40,
          "tileheight":32,
@@ -1539,6 +1575,12 @@
          "imagewidth":448,
          "margin":0,
          "name":"laser_animated",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":42,
          "tileheight":32,
@@ -1681,6 +1723,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"18_Jail_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "properties":[
                 {
                  "name":"tilesetCopyright",
@@ -1719,6 +1767,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"Interiors_free_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":1424,
          "tileheight":32,
@@ -1732,6 +1786,12 @@
          "imagewidth":1792,
          "margin":0,
          "name":"Guard_32x32_19",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":2296,
          "tileheight":32,
@@ -1745,6 +1805,12 @@
          "imagewidth":640,
          "margin":0,
          "name":"Schilder",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":400,
          "tileheight":32,
@@ -1796,6 +1862,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"animated_spider_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":16,
          "tileheight":32,
@@ -1954,6 +2026,12 @@
          "imagewidth":192,
          "margin":0,
          "name":"Door1_pipo",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":72,
          "tileheight":32,
@@ -1967,6 +2045,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"animated_door_prison_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":24,
          "tileheight":32,
@@ -1980,6 +2064,12 @@
          "imagewidth":960,
          "margin":0,
          "name":"animated_elevator_door_entrance_1_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":60,
          "tileheight":32,
@@ -1993,6 +2083,12 @@
          "imagewidth":576,
          "margin":0,
          "name":"animated-cobra",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":18,
          "tileheight":32,

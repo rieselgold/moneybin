@@ -363,6 +363,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilies",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -386,6 +392,12 @@
          "imagewidth":640,
          "margin":0,
          "name":"Schilder",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":400,
          "tileheight":32,
@@ -399,6 +411,12 @@
          "imagewidth":768,
          "margin":0,
          "name":"Room_Builder_3d_walls_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":1320,
          "tileheight":32,
@@ -412,6 +430,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"Interiors_free_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":1424,
          "tileheight":32,
@@ -425,6 +449,12 @@
          "imagewidth":1440,
          "margin":0,
          "name":"Room_Builder_borders_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":450,
          "tileheight":32,
@@ -495,6 +525,12 @@
          "imagewidth":1024,
          "margin":0,
          "name":"base_out_atlas",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -508,6 +544,12 @@
          "imagewidth":1024,
          "margin":0,
          "name":"Room_Builder_Walls_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":1280,
          "tileheight":32,
@@ -521,6 +563,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"tilesets_deviant_milkian_1",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -534,6 +582,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"Modern_Office_Shadowless_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":848,
          "tileheight":32,

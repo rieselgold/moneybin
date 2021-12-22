@@ -391,7 +391,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"\"Cloud\" by nyarlko is licensed unter CC0: https:\/\/opengameart.org\/content\/cloud-1\n"
+                 "value":" "
                 }],
          "spacing":0,
          "tilecount":9,
@@ -473,6 +473,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"clouds",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":40,
          "tileheight":32,
@@ -486,6 +492,12 @@
          "imagewidth":448,
          "margin":0,
          "name":"Dollar-aussen",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":196,
          "tileheight":32,
@@ -499,6 +511,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"Dollar-innen",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -512,6 +530,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"rc3-logo",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
