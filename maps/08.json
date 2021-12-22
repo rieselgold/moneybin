@@ -316,7 +316,7 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilies",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -345,7 +345,7 @@
          "imagewidth":512,
          "margin":0,
          "name":"wintiles",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -445,7 +445,7 @@
          "imagewidth":256,
          "margin":0,
          "name":"BaseChip_pipo",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -464,7 +464,7 @@
          "imagewidth":640,
          "margin":0,
          "name":"Schilder",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -483,7 +483,7 @@
          "imagewidth":768,
          "margin":0,
          "name":"Room_Builder_3d_walls_32x32",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -502,7 +502,7 @@
          "imagewidth":512,
          "margin":0,
          "name":"26_Condominium_32x32",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -521,7 +521,7 @@
          "imagewidth":512,
          "margin":0,
          "name":"1_Generic_32x32",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -540,7 +540,7 @@
          "imagewidth":512,
          "margin":0,
          "name":"tilesets_deviant_milkian_1",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -559,7 +559,7 @@
          "imagewidth":512,
          "margin":0,
          "name":"3_Bathroom_32x32",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -578,7 +578,7 @@
          "imagewidth":512,
          "margin":0,
          "name":"5_Classroom_and_library_32x32",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -597,7 +597,7 @@
          "imagewidth":512,
          "margin":0,
          "name":"Modern_Office_Shadowless_32x32",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -616,7 +616,7 @@
          "imagewidth":512,
          "margin":0,
          "name":"furniture",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -635,7 +635,7 @@
          "imagewidth":512,
          "margin":0,
          "name":"ticket_machine_32x32",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -1199,7 +1199,7 @@
          "imagewidth":512,
          "margin":0,
          "name":"13_Conference_Hall_32x32",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -1218,7 +1218,7 @@
          "imagewidth":96,
          "margin":0,
          "name":"animated_control_room_server_32x32",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -1334,7 +1334,7 @@
          "imagewidth":512,
          "margin":0,
          "name":"18_Jail_32x32",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -1342,6 +1342,25 @@
                 }],
          "spacing":0,
          "tilecount":720,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":8,
+         "firstgid":9891,
+         "image":"..\/tiles\/money.png",
+         "imageheight":256,
+         "imagewidth":256,
+         "margin":0,
+         "name":"money",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
+         "spacing":0,
+         "tilecount":64,
          "tileheight":32,
          "tilewidth":32
         }],
