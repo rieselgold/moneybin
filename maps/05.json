@@ -815,6 +815,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilies",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -838,6 +844,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"wintiles",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -911,6 +923,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"Interiors_free_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":1424,
          "tileheight":32,
@@ -924,6 +942,12 @@
          "imagewidth":640,
          "margin":0,
          "name":"Schilder",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":400,
          "tileheight":32,
@@ -956,6 +980,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"26_Condominium_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":304,
          "tileheight":32,
@@ -969,6 +999,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"1_Generic_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":1248,
          "tileheight":32,
@@ -1001,6 +1037,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"3_Bathroom_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":896,
          "tileheight":32,
@@ -1033,6 +1075,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"furniture",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -1232,6 +1280,12 @@
          "imagewidth":160,
          "margin":0,
          "name":"animated_door_big_6_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":15,
          "tileheight":32,
@@ -1245,6 +1299,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"13_Conference_Hall_Shadowless_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":192,
          "tileheight":32,
@@ -1258,6 +1318,12 @@
          "imagewidth":1440,
          "margin":0,
          "name":"Room_Builder_borders_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":450,
          "tileheight":32,

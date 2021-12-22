@@ -1016,6 +1016,12 @@
          "imagewidth":640,
          "margin":0,
          "name":"Schilder",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":400,
          "tileheight":32,
@@ -1086,6 +1092,12 @@
          "imagewidth":384,
          "margin":0,
          "name":"Door3_pipo",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":144,
          "tileheight":32,
@@ -1307,6 +1319,12 @@
          "imagewidth":192,
          "margin":0,
          "name":"Door1_pipo",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":72,
          "tileheight":32,
@@ -1358,6 +1376,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"Dollar-innen",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -1371,6 +1395,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"signs-outside",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":8,
          "tileheight":32,

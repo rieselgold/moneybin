@@ -431,7 +431,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"\"Cloud\" by nyarlko is licensed unter CC0: https:\/\/opengameart.org\/content\/cloud-1\n"
+                 "value":" "
                 }],
          "spacing":0,
          "tilecount":9,
@@ -513,6 +513,12 @@
          "imagewidth":384,
          "margin":0,
          "name":"Door3_pipo",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":144,
          "tileheight":32,
@@ -526,6 +532,12 @@
          "imagewidth":192,
          "margin":0,
          "name":"Door1_pipo",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":72,
          "tileheight":32,
@@ -539,6 +551,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"clouds",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":40,
          "tileheight":32,
@@ -552,6 +570,12 @@
          "imagewidth":448,
          "margin":0,
          "name":"Dollar-aussen",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":196,
          "tileheight":32,
@@ -565,6 +589,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"Dollar-innen",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -597,6 +627,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"7_Art_Shadowless_32x32",
+		 "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":112,
          "tileheight":32,
