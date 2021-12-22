@@ -991,7 +991,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"\"Cloud\" by nyarlko is licensed unter CC0: https:\/\/opengameart.org\/content\/cloud-1\n"
+                 "value":"\"Map Utilities\" by Workadventure"
                 }],
          "spacing":0,
          "tilecount":9,
@@ -1033,7 +1033,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"\"Modern interiors full version\" licensed from Limezu: https:\/\/limezu.itch.io\/"
+                 "value":"Room Builder 3D walls\" from \"Modern interiors full version\" licensed from Limezu: https:\/\/limezu.itch.io\/"
                 }],
          "spacing":0,
          "tilecount":1320,
@@ -1320,6 +1320,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"clouds",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Cloud\" by nyarlko is licensed unter CC0: https:\/\/opengameart.org\/content\/cloud-1"
+                }],
          "spacing":0,
          "tilecount":40,
          "tileheight":32,
@@ -1333,6 +1339,12 @@
          "imagewidth":448,
          "margin":0,
          "name":"Dollar-aussen",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":196,
          "tileheight":32,
