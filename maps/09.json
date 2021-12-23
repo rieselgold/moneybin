@@ -2113,6 +2113,12 @@
          "imagewidth":192,
          "margin":0,
          "name":"animated_safe_gold_32x32",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":12,
          "tileheight":32,

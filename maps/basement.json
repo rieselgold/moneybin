@@ -612,6 +612,16 @@
  "orientation":"orthogonal",
  "properties":[
         {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"\"The Money Bin\" by Thoddi is licensed unter CC BY-NC-SA"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"The Money Bin"
+        }, 
+        {
          "name":"script",
          "type":"string",
          "value":"https:\/\/static.rc3.world\/scripts\/default\/bundle.js"
