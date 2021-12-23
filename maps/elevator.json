@@ -268,6 +268,17 @@
  "nextlayerid":49,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"\"The Money Bin\" by Thoddi is licensed unter CC BY-NC-SA 4.0"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"The Money Bin"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
