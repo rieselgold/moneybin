@@ -989,6 +989,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"11_Halloween_Shadowless_32x32",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":" "
+                }],
          "spacing":0,
          "tilecount":976,
          "tileheight":32,
