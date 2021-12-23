@@ -1409,6 +1409,11 @@
          "value":"\"The Money Bin\" by Thoddi is licensed unter CC BY-NC-SA 4.0"
         }, 
         {
+         "name":"mapName",
+         "type":"string",
+         "value":"The Money Bin"
+        }, 
+        {
          "name":"script",
          "type":"string",
          "value":"https:\/\/unpkg.com\/@workadventure\/scripting-api-extra@^1\/dist\/bundle.js"
