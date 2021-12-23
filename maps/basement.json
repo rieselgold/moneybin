@@ -736,7 +736,7 @@
          "imagewidth":1024,
          "margin":0,
          "name":"base_out_atlas",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -783,7 +783,7 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilies",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -812,7 +812,7 @@
          "imagewidth":256,
          "margin":0,
          "name":"BaseChip_pipo",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -831,7 +831,7 @@
          "imagewidth":256,
          "margin":0,
          "name":"dungeon",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -850,7 +850,7 @@
          "imagewidth":512,
          "margin":0,
          "name":"minerals-32",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -869,7 +869,7 @@
          "imagewidth":800,
          "margin":0,
          "name":"plums",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -888,7 +888,7 @@
          "imagewidth":768,
          "margin":0,
          "name":"Room_Builder_3d_walls_32x32",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -902,12 +902,12 @@
         {
          "columns":16,
          "firstgid":4437,
-         "image":"..\/tiles\/ModernInteriors\/26_Condominium_32x32.png",
-         "imageheight":608,
+         "image":"..\/tiles\/ModernInteriors\/13_Conference_Hall_Shadowless_32x32.png",
+         "imageheight":384,
          "imagewidth":512,
          "margin":0,
          "name":"26_Condominium_32x32",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -926,7 +926,7 @@
          "imagewidth":192,
          "margin":0,
          "name":"WaterAndFire",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -1158,7 +1158,7 @@
          "imagewidth":256,
          "margin":0,
          "name":"cannon",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -1177,7 +1177,7 @@
          "imagewidth":512,
          "margin":0,
          "name":"22_Museum_32x32",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -1196,7 +1196,7 @@
          "imagewidth":64,
          "margin":0,
          "name":"chest",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
