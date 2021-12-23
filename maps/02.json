@@ -845,6 +845,11 @@
          "value":"\"The Money Bin\" by Thoddi is licensed unter CC BY-NC-SA 4.0"
         }, 
         {
+         "name":"mapName",
+         "type":"string",
+         "value":"The Money Bin"
+        }, 
+        {
          "name":"script",
          "type":"string",
          "value":"https:\/\/unpkg.com\/@workadventure\/scripting-api-extra@^1\/dist\/bundle.js"
@@ -861,7 +866,7 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilies",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -890,7 +895,7 @@
          "imagewidth":256,
          "margin":0,
          "name":"BaseChip_pipo",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -928,7 +933,7 @@
          "imagewidth":640,
          "margin":0,
          "name":"Schilder",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -947,12 +952,6 @@
          "imagewidth":768,
          "margin":0,
          "name":"Room_Builder_3d_walls_32x32",
-		 "properties":[
-                {
-                 "name":"tilesetCopyright",
-                 "type":"string",
-                 "value":" "
-                }],
          "properties":[
                 {
                  "name":"tilesetCopyright",
@@ -972,7 +971,7 @@
          "imagewidth":512,
          "margin":0,
          "name":"26_Condominium_32x32",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -991,7 +990,7 @@
          "imagewidth":1792,
          "margin":0,
          "name":"Guard_32x32_19",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -1010,7 +1009,7 @@
          "imagewidth":256,
          "margin":0,
          "name":"animated_door_prison_32x32",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -1029,7 +1028,7 @@
          "imagewidth":512,
          "margin":0,
          "name":"18_Jail_32x32",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -1048,7 +1047,7 @@
          "imagewidth":960,
          "margin":0,
          "name":"animated_elevator_door_entrance_1_32x32",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",

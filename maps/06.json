@@ -503,6 +503,11 @@
          "value":"\"The Money Bin\" by Thoddi is licensed unter CC BY-NC-SA 4.0"
         }, 
         {
+         "name":"mapName",
+         "type":"string",
+         "value":"The Money Bin"
+        }, 
+        {
          "name":"script",
          "type":"string",
          "value":"https:\/\/unpkg.com\/@workadventure\/scripting-api-extra@^1\/dist\/bundle.js"
@@ -519,7 +524,7 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilies",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -548,7 +553,7 @@
          "imagewidth":512,
          "margin":0,
          "name":"wintiles",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -667,7 +672,7 @@
          "imagewidth":640,
          "margin":0,
          "name":"Schilder",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -705,7 +710,7 @@
          "imagewidth":512,
          "margin":0,
          "name":"26_Condominium_32x32",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -724,7 +729,7 @@
          "imagewidth":512,
          "margin":0,
          "name":"1_Generic_32x32",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -762,7 +767,7 @@
          "imagewidth":512,
          "margin":0,
          "name":"3_Bathroom_32x32",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -781,7 +786,7 @@
          "imagewidth":512,
          "margin":0,
          "name":"5_Classroom_and_library_32x32",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -819,7 +824,7 @@
          "imagewidth":512,
          "margin":0,
          "name":"furniture",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -838,7 +843,7 @@
          "imagewidth":512,
          "margin":0,
          "name":"ticket_machine_32x32",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
@@ -1402,7 +1407,7 @@
          "imagewidth":512,
          "margin":0,
          "name":"13_Conference_Hall_32x32",
-		 "properties":[
+         "properties":[
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
