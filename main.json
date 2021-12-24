@@ -971,6 +971,16 @@
          "value":"\"The Money Bin\" by Thoddi is licensed unter CC BY-NC-SA 4.0"
         }, 
         {
+         "name":"mapDescription",
+         "type":"string",
+         "value":" "
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":" "
+        }, 
+        {
          "name":"mapName",
          "type":"string",
          "value":"The Money Bin"
@@ -1055,7 +1065,7 @@
          "columns":8,
          "firstgid":1730,
          "image":"tiles\/BaseChip_pipo.png",
-         "imageheight":3810,
+         "imageheight":3808,
          "imagewidth":256,
          "margin":0,
          "name":"BaseChip_pipo",
