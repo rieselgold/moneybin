@@ -1421,7 +1421,7 @@
          "columns":5,
          "firstgid":4238,
          "image":"tiles\/trashcan.png",
-         "imageheight":64,
+         "imageheight":160,
          "imagewidth":160,
          "margin":0,
          "name":"trashcan",
@@ -1429,10 +1429,10 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":" "
+                 "value":"\"Trash\" by hrum is licensed unter CC0: https:\/\/openclipart.org\/detail\/25915\/trash"
                 }],
          "spacing":0,
-         "tilecount":10,
+         "tilecount":25,
          "tileheight":32,
          "tilewidth":32
         }],
