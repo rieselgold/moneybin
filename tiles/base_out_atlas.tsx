@@ -4,4 +4,19 @@
   <property name="tilesetCopyright" value="&quot;LPC Tile Atlas&quot; was created by multiple artits and is licensed under CC-BY-SA 3.0: https://opengameart.org/content/lpc-tile-atlas"/>
  </properties>
  <image source="base_out_atlas.png" width="1024" height="1024"/>
+ <tile id="607">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="639">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="671">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
 </tileset>

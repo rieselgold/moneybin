@@ -454,7 +454,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":" "
+                 "value":"\"Map Utilities\" by Workadventure"
                 }],
          "spacing":0,
          "tilecount":9,
@@ -483,7 +483,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"\"Modern interiors full version\" licensed from Limezu: https:\/\/limezu.itch.io\/"
+                 "value":"\"Room Builder 3D walls\" from \"Modern interiors full version\" licensed from Limezu: https:\/\/limezu.itch.io\/"
                 }],
          "spacing":0,
          "tilecount":1320,
@@ -526,6 +526,34 @@
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":607,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":639,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":671,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -540,7 +568,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":" "
+                 "value":"\"Cloud\" by nyarlko is licensed unter CC0: https:\/\/opengameart.org\/content\/cloud-1"
                 }],
          "spacing":0,
          "tilecount":40,
@@ -559,7 +587,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":" "
+                 "value":"\"RC3-Logo\" by Mullana is licensed unter CC0"
                 }],
          "spacing":0,
          "tilecount":100,
@@ -587,23 +615,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
-                         "tileid":0
-                        }, 
-                        {
-                         "duration":500,
-                         "tileid":3
-                        }],
-                 "id":0
-                }, 
-                {
-                 "animation":[
-                        {
-                         "duration":500,
+                         "duration":700,
                          "tileid":1
                         }, 
                         {
-                         "duration":500,
+                         "duration":700,
                          "tileid":4
                         }],
                  "id":1
@@ -611,11 +627,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":700,
                          "tileid":2
                         }, 
                         {
-                         "duration":500,
+                         "duration":700,
                          "tileid":5
                         }],
                  "id":2
@@ -623,23 +639,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
-                         "tileid":6
-                        }, 
-                        {
-                         "duration":500,
-                         "tileid":9
-                        }],
-                 "id":6
-                }, 
-                {
-                 "animation":[
-                        {
-                         "duration":500,
+                         "duration":700,
                          "tileid":7
                         }, 
                         {
-                         "duration":500,
+                         "duration":700,
                          "tileid":10
                         }],
                  "id":7
@@ -647,11 +651,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":700,
                          "tileid":8
                         }, 
                         {
-                         "duration":500,
+                         "duration":700,
                          "tileid":11
                         }],
                  "id":8
@@ -659,11 +663,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":700,
                          "tileid":12
                         }, 
                         {
-                         "duration":500,
+                         "duration":700,
                          "tileid":15
                         }],
                  "id":12
@@ -671,11 +675,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":700,
                          "tileid":13
                         }, 
                         {
-                         "duration":500,
+                         "duration":700,
                          "tileid":16
                         }],
                  "id":13
@@ -683,11 +687,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":700,
                          "tileid":14
                         }, 
                         {
-                         "duration":500,
+                         "duration":700,
                          "tileid":17
                         }],
                  "id":14
@@ -695,11 +699,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":700,
                          "tileid":18
                         }, 
                         {
-                         "duration":500,
+                         "duration":700,
                          "tileid":21
                         }],
                  "id":18
@@ -707,23 +711,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
-                         "tileid":19
-                        }, 
-                        {
-                         "duration":500,
-                         "tileid":22
-                        }],
-                 "id":19
-                }, 
-                {
-                 "animation":[
-                        {
-                         "duration":500,
+                         "duration":700,
                          "tileid":20
                         }, 
                         {
-                         "duration":500,
+                         "duration":700,
                          "tileid":23
                         }],
                  "id":20
@@ -731,11 +723,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":700,
                          "tileid":24
                         }, 
                         {
-                         "duration":500,
+                         "duration":700,
                          "tileid":27
                         }],
                  "id":24
@@ -743,11 +735,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":700,
                          "tileid":25
                         }, 
                         {
-                         "duration":500,
+                         "duration":700,
                          "tileid":28
                         }],
                  "id":25
@@ -755,14 +747,106 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":700,
                          "tileid":26
                         }, 
                         {
-                         "duration":500,
+                         "duration":700,
                          "tileid":29
                         }],
                  "id":26
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":200,
+                         "tileid":31
+                        }, 
+                        {
+                         "duration":200,
+                         "tileid":32
+                        }, 
+                        {
+                         "duration":200,
+                         "tileid":33
+                        }, 
+                        {
+                         "duration":200,
+                         "tileid":34
+                        }],
+                 "id":31
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":200,
+                         "tileid":32
+                        }, 
+                        {
+                         "duration":200,
+                         "tileid":33
+                        }, 
+                        {
+                         "duration":200,
+                         "tileid":34
+                        }, 
+                        {
+                         "duration":200,
+                         "tileid":31
+                        }],
+                 "id":32
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":200,
+                         "tileid":33
+                        }, 
+                        {
+                         "duration":200,
+                         "tileid":34
+                        }, 
+                        {
+                         "duration":200,
+                         "tileid":31
+                        }, 
+                        {
+                         "duration":200,
+                         "tileid":32
+                        }],
+                 "id":33
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":200,
+                         "tileid":34
+                        }, 
+                        {
+                         "duration":200,
+                         "tileid":31
+                        }, 
+                        {
+                         "duration":200,
+                         "tileid":32
+                        }, 
+                        {
+                         "duration":200,
+                         "tileid":33
+                        }],
+                 "id":34
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":700,
+                         "tileid":41
+                        }, 
+                        {
+                         "duration":700,
+                         "tileid":40
+                        }],
+                 "id":40
                 }],
          "tilewidth":32
         }, 
@@ -778,7 +862,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":" "
+                 "value":"\"Duck\" animated by Thoddi and taken from \"Modern interiors full version\" is licensed from Limezu: https:\/\/limezu.itch.io\/"
                 }],
          "spacing":0,
          "tilecount":3916,

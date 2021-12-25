@@ -22,12 +22,7 @@
  <tileset firstgid="4473" source="../tiles/ModernInteriors/Guard_32x32_19.tsx"/>
  <tileset firstgid="6769" source="../tiles/Schilder.tsx"/>
  <tileset firstgid="7569" source="../tiles/cannon.tsx"/>
- <tileset firstgid="7577" name="wintiles" tilewidth="32" tileheight="32" tilecount="1024" columns="16">
-  <properties>
-   <property name="tilesetCopyright" value="&quot;Wintiles set&quot; is compiled by CERT and licensed unter CC BY-SA"/>
-  </properties>
-  <image source="../tiles/wintiles.png" width="512" height="2048"/>
- </tileset>
+ <tileset firstgid="7577" source="../tiles/wintiles.tsx"/>
  <tileset firstgid="8601" source="../tiles/ModernInteriors/animated_spider_32x32.tsx"/>
  <tileset firstgid="8617" source="../tiles/Door1_pipo.tsx"/>
  <tileset firstgid="8689" source="../tiles/ModernInteriors/animated_door_prison_32x32.tsx"/>
