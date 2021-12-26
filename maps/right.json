@@ -449,6 +449,16 @@
          "value":"\"The Money Bin\" by Thoddi is licensed unter CC BY-NC-SA 4.0"
         }, 
         {
+         "name":"mapDescription",
+         "type":"string",
+         "value":" "
+        }, 
+        {
+         "name":"mapLinks",
+         "type":"string",
+         "value":" "
+        }, 
+        {
          "name":"mapName",
          "type":"string",
          "value":"The Money Bin"
@@ -474,7 +484,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":" "
+                 "value":"\"Map Utilities\" by Workadventure"
                 }],
          "spacing":0,
          "tilecount":9,
@@ -503,7 +513,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"\"Modern interiors full version\" licensed from Limezu: https:\/\/limezu.itch.io\/"
+                 "value":"\"Room Builder 3D walls\" from \"Modern interiors full version\" licensed from Limezu: https:\/\/limezu.itch.io\/"
                 }],
          "spacing":0,
          "tilecount":1320,
@@ -514,7 +524,7 @@
          "columns":8,
          "firstgid":1330,
          "image":"..\/tiles\/BaseChip_pipo.png",
-         "imageheight":3810,
+         "imageheight":3808,
          "imagewidth":256,
          "margin":0,
          "name":"BaseChip_pipo",
@@ -546,6 +556,34 @@
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":607,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":639,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":671,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -560,7 +598,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":" "
+                 "value":"\"Cloud\" by nyarlko is licensed unter CC0: https:\/\/opengameart.org\/content\/cloud-1"
                 }],
          "spacing":0,
          "tilecount":40,
@@ -590,7 +628,7 @@
          "columns":20,
          "firstgid":3371,
          "image":"..\/tiles\/Schilder.png",
-         "imageheight":640,
+         "imageheight":1280,
          "imagewidth":640,
          "margin":0,
          "name":"Schilder",
@@ -598,10 +636,10 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":" "
+                 "value":"\"Schilder\" by Thoddi is licensed unter CC BY-NC-SA 4.0"
                 }],
          "spacing":0,
-         "tilecount":400,
+         "tilecount":800,
          "tileheight":32,
          "tilewidth":32
         }],
