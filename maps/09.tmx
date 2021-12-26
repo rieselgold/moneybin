@@ -5,6 +5,8 @@
  </editorsettings>
  <properties>
   <property name="mapCopyright" value="&quot;The Money Bin&quot; by Thoddi is licensed unter CC BY-NC-SA"/>
+  <property name="mapDescription" value=" "/>
+  <property name="mapLink" value=" "/>
   <property name="mapName" value="The Money Bin"/>
   <property name="script" value="https://static.rc3.world/scripts/default/bundle.js"/>
  </properties>

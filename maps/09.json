@@ -1872,6 +1872,16 @@
          "value":"\"The Money Bin\" by Thoddi is licensed unter CC BY-NC-SA"
         }, 
         {
+         "name":"mapDescription",
+         "type":"string",
+         "value":" "
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":" "
+        }, 
+        {
          "name":"mapName",
          "type":"string",
          "value":"The Money Bin"

@@ -914,7 +914,7 @@
                  "visible":true,
                  "width":0,
                  "x":421,
-                 "y":19.6666666666667
+                 "y":19.6667
                 }, 
                 {
                  "height":0,
@@ -946,7 +946,7 @@
                  "type":"variable",
                  "visible":true,
                  "width":0,
-                 "x":337.333333333333,
+                 "x":337.333,
                  "y":469
                 }, 
                 {
@@ -979,7 +979,7 @@
                  "type":"variable",
                  "visible":true,
                  "width":0,
-                 "x":963.333333333333,
+                 "x":963.333,
                  "y":483
                 }, 
                 {
@@ -1012,7 +1012,7 @@
                  "type":"variable",
                  "visible":true,
                  "width":0,
-                 "x":1007.33333333333,
+                 "x":1007.33,
                  "y":220
                 }, 
                 {
@@ -1045,7 +1045,7 @@
                  "type":"variable",
                  "visible":true,
                  "width":0,
-                 "x":1323.33333333333,
+                 "x":1323.33,
                  "y":208
                 }, 
                 {
@@ -1078,7 +1078,7 @@
                  "type":"variable",
                  "visible":true,
                  "width":0,
-                 "x":1453.33333333333,
+                 "x":1453.33,
                  "y":210
                 }, 
                 {
@@ -1111,7 +1111,7 @@
                  "type":"variable",
                  "visible":true,
                  "width":0,
-                 "x":201.333333333333,
+                 "x":201.333,
                  "y":312.5
                 }, 
                 {
@@ -1144,7 +1144,7 @@
                  "type":"variable",
                  "visible":true,
                  "width":0,
-                 "x":208.333333333333,
+                 "x":208.333,
                  "y":229.5
                 }],
          "opacity":1,
@@ -1425,6 +1425,16 @@
          "name":"mapCopyright",
          "type":"string",
          "value":"\"The Money Bin\" by Thoddi is licensed unter CC BY-NC-SA 4.0"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":" "
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":" "
         }, 
         {
          "name":"mapName",
