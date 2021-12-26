@@ -252,7 +252,7 @@
          "height":47,
          "id":109,
          "name":"Money-Base",
-         "opacity":0.8,
+         "opacity":0.7,
          "type":"tilelayer",
          "visible":true,
          "width":47,
