@@ -817,6 +817,16 @@
          "value":"\"The Money Bin\" by Thoddi is licensed unter CC BY-NC-SA 4.0"
         }, 
         {
+         "name":"mapDescription",
+         "type":"string",
+         "value":" "
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":" "
+        }, 
+        {
          "name":"mapName",
          "type":"string",
          "value":"The Money Bin"
@@ -916,6 +926,46 @@
                          "tileid":63
                         }],
                  "id":62
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":700,
+                         "tileid":61
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":63
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":62
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":63
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":62
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":63
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":62
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":63
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":62
+                        }],
+                 "id":63
                 }],
          "tilewidth":32
         }, 

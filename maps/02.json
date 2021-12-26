@@ -532,8 +532,8 @@
                  "type":"variable",
                  "visible":true,
                  "width":0,
-                 "x":1310.72378138848,
-                 "y":271.264868226697
+                 "x":1310.72,
+                 "y":271.265
                 }, 
                 {
                  "height":0,
@@ -565,8 +565,8 @@
                  "type":"variable",
                  "visible":true,
                  "width":0,
-                 "x":1441.67923501516,
-                 "y":274.772603591697
+                 "x":1441.68,
+                 "y":274.773
                 }, 
                 {
                  "height":0,
@@ -598,8 +598,8 @@
                  "type":"variable",
                  "visible":true,
                  "width":0,
-                 "x":1189.12228873513,
-                 "y":152.001865816684
+                 "x":1189.12,
+                 "y":152.002
                 }, 
                 {
                  "height":0,
@@ -631,8 +631,8 @@
                  "type":"variable",
                  "visible":true,
                  "width":0,
-                 "x":959.95024488844,
-                 "y":133.293943870015
+                 "x":959.95,
+                 "y":133.294
                 }, 
                 {
                  "height":0,
@@ -664,8 +664,8 @@
                  "type":"variable",
                  "visible":true,
                  "width":0,
-                 "x":419.75899867838,
-                 "y":45.6005597450051
+                 "x":419.759,
+                 "y":45.6006
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -861,6 +861,16 @@
          "name":"mapCopyright",
          "type":"string",
          "value":"\"The Money Bin\" by Thoddi is licensed unter CC BY-NC-SA 4.0"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":" "
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":" "
         }, 
         {
          "name":"mapName",

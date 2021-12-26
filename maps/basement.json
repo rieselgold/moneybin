@@ -481,8 +481,8 @@
                  "type":"variable",
                  "visible":true,
                  "width":0,
-                 "x":1169.57920303883,
-                 "y":31.4405566309946
+                 "x":1169.58,
+                 "y":31.4406
                 }, 
                 {
                  "height":0,
@@ -514,8 +514,8 @@
                  "type":"variable",
                  "visible":true,
                  "width":0,
-                 "x":1221.57920303883,
-                 "y":31.4405566309946
+                 "x":1221.58,
+                 "y":31.4406
                 }, 
                 {
                  "height":0,
@@ -547,8 +547,8 @@
                  "type":"variable",
                  "visible":true,
                  "width":0,
-                 "x":1270.91253637216,
-                 "y":32.1072232976612
+                 "x":1270.91,
+                 "y":32.1072
                 }, 
                 {
                  "height":0,
@@ -580,8 +580,8 @@
                  "type":"variable",
                  "visible":true,
                  "width":0,
-                 "x":1320.24586970549,
-                 "y":32.1072232976612
+                 "x":1320.25,
+                 "y":32.1072
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -633,6 +633,16 @@
          "name":"mapCopyright",
          "type":"string",
          "value":"\"The Money Bin\" by Thoddi is licensed unter CC BY-NC-SA"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":""
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":""
         }, 
         {
          "name":"mapName",

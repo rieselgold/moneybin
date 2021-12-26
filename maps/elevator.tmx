@@ -2,6 +2,8 @@
 <map version="1.5" tiledversion="1.7.2" orientation="orthogonal" renderorder="right-down" width="13" height="13" tilewidth="32" tileheight="32" infinite="0" nextlayerid="50" nextobjectid="1">
  <properties>
   <property name="mapCopyright" value="&quot;The Money Bin&quot; by Thoddi is licensed unter CC BY-NC-SA 4.0"/>
+  <property name="mapDescription" value=" "/>
+  <property name="mapLink" value=" "/>
   <property name="mapName" value="The Money Bin"/>
  </properties>
  <tileset firstgid="1" source="../tiles/mapUtilies.tsx"/>

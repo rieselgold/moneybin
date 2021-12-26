@@ -824,8 +824,8 @@
                  "type":"variable",
                  "visible":true,
                  "width":0,
-                 "x":624.333333333333,
-                 "y":141.666666666667
+                 "x":624.333,
+                 "y":141.667
                 }, 
                 {
                  "height":0,
@@ -857,8 +857,8 @@
                  "type":"variable",
                  "visible":true,
                  "width":0,
-                 "x":1171.64823404799,
-                 "y":244.851784214179
+                 "x":1171.65,
+                 "y":244.852
                 }, 
                 {
                  "height":0,
@@ -890,8 +890,8 @@
                  "type":"variable",
                  "visible":true,
                  "width":0,
-                 "x":433.64823404799,
-                 "y":382.851784214179
+                 "x":433.648,
+                 "y":382.852
                 }, 
                 {
                  "height":0,
@@ -923,8 +923,8 @@
                  "type":"variable",
                  "visible":true,
                  "width":0,
-                 "x":769.64823404799,
-                 "y":533.851784214179
+                 "x":769.648,
+                 "y":533.852
                 }, 
                 {
                  "height":0,
@@ -956,8 +956,8 @@
                  "type":"variable",
                  "visible":true,
                  "width":0,
-                 "x":1359.64823404799,
-                 "y":254.851784214179
+                 "x":1359.65,
+                 "y":254.852
                 }, 
                 {
                  "height":0,
@@ -989,8 +989,8 @@
                  "type":"variable",
                  "visible":true,
                  "width":0,
-                 "x":1442.98156738132,
-                 "y":380.851784214179
+                 "x":1442.98,
+                 "y":380.852
                 }, 
                 {
                  "height":0,
@@ -1276,6 +1276,16 @@
          "name":"mapCopyright",
          "type":"string",
          "value":"\"The Money Bin\" by Thoddi is licensed unter CC BY-NC-SA 4.0"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":" "
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":" "
         }, 
         {
          "name":"mapName",
