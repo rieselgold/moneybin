@@ -597,6 +597,12 @@
          "id":101,
          "name":"exitToWorld",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"world:\/\/lobby\/rest-of-2020.json#start_moneybin"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":44,
@@ -658,7 +664,7 @@
          "name":"Bushes1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":44,
          "x":0,
          "y":0
@@ -730,7 +736,7 @@
          "name":"Dollar",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":44,
          "x":0,
          "y":0
@@ -754,7 +760,7 @@
          "name":"roofDoorOpen2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":44,
          "x":0,
          "y":0
@@ -766,7 +772,7 @@
          "name":"roofDoorOpen1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":44,
          "x":0,
          "y":0
@@ -946,10 +952,61 @@
                  "width":0,
                  "x":802,
                  "y":58
+                }, 
+                {
+                 "height":28,
+                 "id":8,
+                 "name":"TriggeredAMine",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"Ahc8E6iRoRHBY2lB9nvp1o4b0hTyYFeQOSwjfdvy2KOzqHWjwA"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":27,
+                 "x":962.667,
+                 "y":834
+                }, 
+                {
+                 "height":27,
+                 "id":9,
+                 "name":"Bath1",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"wk04mnHdZVCPeLBvPakplc9mdoy7s2UAbkvtdmsPSjkkkOIj0F"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":89.5,
+                 "x":162.5,
+                 "y":833
+                }, 
+                {
+                 "height":32,
+                 "id":10,
+                 "name":"Bath2",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"wk04mnHdZVCPeLBvPakplc9mdoy7s2UAbkvtdmsPSjkkkOIj0F"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":31,
+                 "x":162.5,
+                 "y":800
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -1002,7 +1059,7 @@
          "y":0
         }],
  "nextlayerid":133,
- "nextobjectid":8,
+ "nextobjectid":11,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -1046,7 +1103,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"\"Map Utilities\" by Workadventure"
+                 "value":"\"Map Utilities\" by CCCV GmbH is licensed under CC0"
                 }],
          "spacing":0,
          "tilecount":9,
@@ -1080,6 +1137,67 @@
          "spacing":0,
          "tilecount":800,
          "tileheight":32,
+         "tiles":[
+                {
+                 "animation":[
+                        {
+                         "duration":1000,
+                         "tileid":169
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":169
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":169
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":166
+                        }],
+                 "id":166
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":1000,
+                         "tileid":169
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":169
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":169
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":167
+                        }],
+                 "id":167
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":1000,
+                         "tileid":169
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":169
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":169
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":168
+                        }],
+                 "id":168
+                }],
          "tilewidth":32
         }, 
         {
@@ -1446,6 +1564,30 @@
                          "tileid":33
                         }],
                  "id":34
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":200,
+                         "tileid":37
+                        }, 
+                        {
+                         "duration":200,
+                         "tileid":38
+                        }],
+                 "id":37
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":200,
+                         "tileid":38
+                        }, 
+                        {
+                         "duration":200,
+                         "tileid":37
+                        }],
+                 "id":38
                 }, 
                 {
                  "animation":[

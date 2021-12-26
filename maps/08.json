@@ -925,6 +925,67 @@
          "spacing":0,
          "tilecount":800,
          "tileheight":32,
+         "tiles":[
+                {
+                 "animation":[
+                        {
+                         "duration":1000,
+                         "tileid":169
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":169
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":169
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":166
+                        }],
+                 "id":166
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":1000,
+                         "tileid":169
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":169
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":169
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":167
+                        }],
+                 "id":167
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":1000,
+                         "tileid":169
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":169
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":169
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":168
+                        }],
+                 "id":168
+                }],
          "tilewidth":32
         }, 
         {

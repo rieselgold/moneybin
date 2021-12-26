@@ -108,6 +108,18 @@
    <frame tileid="33" duration="200"/>
   </animation>
  </tile>
+ <tile id="37">
+  <animation>
+   <frame tileid="37" duration="200"/>
+   <frame tileid="38" duration="200"/>
+  </animation>
+ </tile>
+ <tile id="38">
+  <animation>
+   <frame tileid="38" duration="200"/>
+   <frame tileid="37" duration="200"/>
+  </animation>
+ </tile>
  <tile id="40">
   <animation>
    <frame tileid="41" duration="700"/>
