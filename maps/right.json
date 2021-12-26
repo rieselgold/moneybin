@@ -372,7 +372,24 @@
          "draworder":"topdown",
          "id":17,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "height":56.25,
+                 "id":9,
+                 "name":"PeddlerExit",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"2r6I2ggnze4Xct4PzaPDvGaefqnfPFOiqzhG1MWmMuGFJKyyLX"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":23,
+                 "x":484.5,
+                 "y":612.75
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -440,7 +457,7 @@
          "y":0
         }],
  "nextlayerid":140,
- "nextobjectid":8,
+ "nextobjectid":10,
  "orientation":"orthogonal",
  "properties":[
         {
