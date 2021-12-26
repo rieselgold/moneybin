@@ -1102,6 +1102,8 @@
  <layer id="132" name="jitsi_global" width="44" height="34">
   <properties>
    <property name="jitsiRoom" value="shared-GlobalPhonebooth"/>
+   <property name="jitsiTrigger" value="onaction"/>
+   <property name="jitsiTriggerMessage" value="Press SPACE to call other players..."/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

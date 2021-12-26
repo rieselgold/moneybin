@@ -526,6 +526,16 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"shared-GlobalPhonebooth"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Press SPACE to call other players..."
                 }],
          "type":"tilelayer",
          "visible":true,

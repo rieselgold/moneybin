@@ -87,7 +87,9 @@
  </layer>
  <layer id="78" name="jitsiSitzecke" width="48" height="16">
   <properties>
-   <property name="jitsiRoom" value="floor12"/>
+   <property name="jitsiRoom" value="Sitzecke"/>
+   <property name="jitsiTrigger" value="onaction"/>
+   <property name="jitsiTriggerMessage" value="Sit down and press SPACE to talk to other players..."/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
