@@ -1295,6 +1295,9 @@
 </data>
  </layer>
  <layer id="101" name="exitToWorld" width="44" height="34">
+  <properties>
+   <property name="exitUrl" value="world://lobby/rest-of-2020.json#start_moneybin"/>
+  </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

@@ -597,6 +597,12 @@
          "id":101,
          "name":"exitToWorld",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"world:\/\/lobby\/rest-of-2020.json#start_moneybin"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":44,
@@ -961,7 +967,7 @@
                  "type":"",
                  "visible":true,
                  "width":27,
-                 "x":962.666666666667,
+                 "x":962.667,
                  "y":834
                 }, 
                 {
@@ -1558,6 +1564,30 @@
                          "tileid":33
                         }],
                  "id":34
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":200,
+                         "tileid":37
+                        }, 
+                        {
+                         "duration":200,
+                         "tileid":38
+                        }],
+                 "id":37
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":200,
+                         "tileid":38
+                        }, 
+                        {
+                         "duration":200,
+                         "tileid":37
+                        }],
+                 "id":38
                 }, 
                 {
                  "animation":[
