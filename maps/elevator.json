@@ -313,7 +313,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":" "
+                 "value":"\"Map Utilities\" by Workadventure"
                 }],
          "spacing":0,
          "tilecount":9,
@@ -342,7 +342,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":" "
+                 "value":"\"Room Builder 3D walls\" from \"Modern interiors full version\" licensed from Limezu: https:\/\/limezu.itch.io\/"
                 }],
          "spacing":0,
          "tilecount":1320,
@@ -361,7 +361,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":" "
+                 "value":"\"Elevator panel\" by Thoddi is licensed under CC BY-NC-SA 4.0"
                 }],
          "spacing":0,
          "tilecount":121,
