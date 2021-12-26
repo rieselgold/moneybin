@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.5" tiledversion="1.7.2" orientation="orthogonal" renderorder="right-down" width="44" height="34" tilewidth="32" tileheight="32" infinite="0" nextlayerid="133" nextobjectid="8">
+<map version="1.5" tiledversion="1.7.2" orientation="orthogonal" renderorder="right-down" width="44" height="34" tilewidth="32" tileheight="32" infinite="0" nextlayerid="133" nextobjectid="9">
  <editorsettings>
   <export target="main.json" format="json"/>
  </editorsettings>
@@ -2092,7 +2092,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <objectgroup id="17" name="floorLayer" visible="0">
+ <objectgroup id="17" name="floorLayer">
   <object id="5" name="binDoor" type="variable" x="576" y="612">
    <properties>
     <property name="closeLayer">binDoorClose1
@@ -2123,6 +2123,11 @@ roofDoorClose2</property>
 roofDoorOpen2</property>
    </properties>
    <point/>
+  </object>
+  <object id="8" name="TriggeredAMine" x="962.667" y="834" width="27" height="28">
+   <properties>
+    <property name="getBadge" value="Ahc8E6iRoRHBY2lB9nvp1o4b0hTyYFeQOSwjfdvy2KOzqHWjwA"/>
+   </properties>
   </object>
  </objectgroup>
  <layer id="90" name="Trees2" width="44" height="34">
