@@ -317,7 +317,9 @@
  </layer>
  <layer id="56" name="jitsiBremen" width="48" height="16">
   <properties>
-   <property name="jitsiRoom" value="floor10Bremen"/>
+   <property name="jitsiRoom" value="BremenRoom"/>
+   <property name="jitsiTrigger" value="onaction"/>
+   <property name="jitsiTriggerMessage" value="Press SPACE to talk in this conference room..."/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

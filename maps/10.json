@@ -318,7 +318,17 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"floor10Bremen"
+                 "value":"BremenRoom"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Press SPACE to talk in this conference room..."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1047,6 +1057,16 @@
          "name":"mapCopyright",
          "type":"string",
          "value":"\"The Money Bin\" by Thoddi is licensed unter CC BY-NC-SA"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":" "
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":" "
         }, 
         {
          "name":"mapName",
