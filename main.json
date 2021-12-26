@@ -658,7 +658,7 @@
          "name":"Bushes1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":44,
          "x":0,
          "y":0
@@ -730,7 +730,7 @@
          "name":"Dollar",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":44,
          "x":0,
          "y":0
@@ -754,7 +754,7 @@
          "name":"roofDoorOpen2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":44,
          "x":0,
          "y":0
@@ -766,7 +766,7 @@
          "name":"roofDoorOpen1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":44,
          "x":0,
          "y":0
@@ -963,6 +963,40 @@
                  "width":27,
                  "x":962.666666666667,
                  "y":834
+                }, 
+                {
+                 "height":27,
+                 "id":9,
+                 "name":"Bath1",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"wk04mnHdZVCPeLBvPakplc9mdoy7s2UAbkvtdmsPSjkkkOIj0F"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":89.5,
+                 "x":162.5,
+                 "y":833
+                }, 
+                {
+                 "height":32,
+                 "id":10,
+                 "name":"Bath2",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"wk04mnHdZVCPeLBvPakplc9mdoy7s2UAbkvtdmsPSjkkkOIj0F"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":31,
+                 "x":162.5,
+                 "y":800
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1019,7 +1053,7 @@
          "y":0
         }],
  "nextlayerid":133,
- "nextobjectid":9,
+ "nextobjectid":11,
  "orientation":"orthogonal",
  "properties":[
         {
