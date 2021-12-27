@@ -384,6 +384,42 @@
                  "width":0,
                  "x":773.333,
                  "y":449.333
+                }, 
+                {
+                 "height":0,
+                 "id":3,
+                 "name":"RailroadShares",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"wi4ft6JWrgx8fn8eJbhAXKzpA1Fe0pBsU5BgPV0RuMNYi9yFxu"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":352.666666666667,
+                 "y":124
+                }, 
+                {
+                 "height":0,
+                 "id":4,
+                 "name":"OilShares",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"ESlTQQhncdTNdVCoaUBiw4beDEk70uOpnXtJXHkv7qQJmNhO8Y"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":256.666666666667,
+                 "y":416
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -512,7 +548,7 @@
          "y":0
         }],
  "nextlayerid":58,
- "nextobjectid":3,
+ "nextobjectid":5,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -556,7 +592,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"\"Map Utilities\" by Workadventure"
+                 "value":"\"Map Utilities\" by CCCV GmbH is licensed under CC0"
                 }],
          "spacing":0,
          "tilecount":9,
@@ -709,6 +745,67 @@
          "spacing":0,
          "tilecount":800,
          "tileheight":32,
+         "tiles":[
+                {
+                 "animation":[
+                        {
+                         "duration":1000,
+                         "tileid":169
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":169
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":169
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":166
+                        }],
+                 "id":166
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":1000,
+                         "tileid":169
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":169
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":169
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":167
+                        }],
+                 "id":167
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":1000,
+                         "tileid":169
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":169
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":169
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":168
+                        }],
+                 "id":168
+                }],
          "tilewidth":32
         }, 
         {
