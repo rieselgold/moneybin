@@ -1459,6 +1459,23 @@
                  "width":0,
                  "x":561,
                  "y":236
+                }, 
+                {
+                 "height":145,
+                 "id":20,
+                 "name":"arrested",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"c8y4t5mJOtkyOrD6ISgTbzozYAMIxNFnCWFpb1Cgqx7SMkFHBD"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":182,
+                 "x":37,
+                 "y":134
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1863,7 +1880,7 @@
          "y":0
         }],
  "nextlayerid":119,
- "nextobjectid":20,
+ "nextobjectid":21,
  "orientation":"orthogonal",
  "properties":[
         {
