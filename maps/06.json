@@ -386,10 +386,9 @@
                  "y":449.333
                 }, 
                 {
-                 "height":0,
-                 "id":3,
+                 "height":67,
+                 "id":5,
                  "name":"RailroadShares",
-                 "point":true,
                  "properties":[
                         {
                          "name":"getBadge",
@@ -399,15 +398,14 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
-                 "x":352.667,
-                 "y":124
+                 "width":63,
+                 "x":320.5,
+                 "y":98.5
                 }, 
                 {
-                 "height":0,
-                 "id":4,
+                 "height":66.5,
+                 "id":6,
                  "name":"OilShares",
-                 "point":true,
                  "properties":[
                         {
                          "name":"getBadge",
@@ -417,9 +415,9 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
-                 "x":256.667,
-                 "y":416
+                 "width":67.5,
+                 "x":220.5,
+                 "y":387.5
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -548,7 +546,7 @@
          "y":0
         }],
  "nextlayerid":58,
- "nextobjectid":5,
+ "nextobjectid":7,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -863,6 +861,16 @@
          "spacing":0,
          "tilecount":1248,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":693,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
