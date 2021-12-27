@@ -1057,6 +1057,23 @@
                  "width":0,
                  "x":785,
                  "y":212
+                }, 
+                {
+                 "height":82.5,
+                 "id":13,
+                 "name":"firstDime",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"bxd1L117dSzC4hwzufonXt04EIZneQU2VPhImp1OoUqicVNYjr"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":95,
+                 "x":737,
+                 "y":262.75
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1269,7 +1286,7 @@
          "y":0
         }],
  "nextlayerid":113,
- "nextobjectid":13,
+ "nextobjectid":14,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -1313,7 +1330,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"\"Map Utilities\" by Workadventure"
+                 "value":"\"Map Utilities\" by CCCV GmbH is licensed under CC0"
                 }],
          "spacing":0,
          "tilecount":9,
@@ -1347,6 +1364,67 @@
          "spacing":0,
          "tilecount":800,
          "tileheight":32,
+         "tiles":[
+                {
+                 "animation":[
+                        {
+                         "duration":1000,
+                         "tileid":169
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":169
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":169
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":166
+                        }],
+                 "id":166
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":1000,
+                         "tileid":169
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":169
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":169
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":167
+                        }],
+                 "id":167
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":1000,
+                         "tileid":169
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":169
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":169
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":168
+                        }],
+                 "id":168
+                }],
          "tilewidth":32
         }, 
         {
