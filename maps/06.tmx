@@ -24,6 +24,7 @@
  <tileset firstgid="8202" source="../tiles/furniture.tsx"/>
  <tileset firstgid="9226" source="../tiles/ModernInteriors/ticket_machine_32x32.tsx"/>
  <tileset firstgid="9258" source="../tiles/ModernInteriors/13_Conference_Hall_Shadowless_32x32.tsx"/>
+ <tileset firstgid="9450" source="../tiles/cert_safety.tsx"/>
  <layer id="57" name="exitMain" width="48" height="16">
   <properties>
    <property name="exitUrl" value="../main.json"/>
@@ -634,7 +635,7 @@ wcLeftClose2</property>
  <layer id="21" name="WallDecorationsBeforePlayer" width="48" height="16">
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9454,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
