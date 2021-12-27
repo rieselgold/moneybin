@@ -252,6 +252,23 @@
                  "width":0,
                  "x":769.648,
                  "y":53.8518
+                }, 
+                {
+                 "height":29,
+                 "id":13,
+                 "name":"120ft",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"JsLNhuDYyRYBa3sQh0P0moPYcK9dhHsQNaycDBUZYcz2DgyvpC"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":94.3333333333333,
+                 "x":1376,
+                 "y":1443
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -380,7 +397,7 @@
          "y":0
         }],
  "nextlayerid":122,
- "nextobjectid":13,
+ "nextobjectid":14,
  "orientation":"orthogonal",
  "properties":[
         {
