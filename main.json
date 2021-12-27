@@ -1081,11 +1081,6 @@
          "name":"mapName",
          "type":"string",
          "value":"The Money Bin"
-        }, 
-        {
-         "name":"script",
-         "type":"string",
-         "value":"https:\/\/static.rc3.world\/scripts\/default\/bundle.js"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
@@ -1683,8 +1678,8 @@
          "columns":31,
          "firstgid":4447,
          "image":"tiles\/explosion.png",
-         "imageheight":500,
-         "imagewidth":1000,
+         "imageheight":480,
+         "imagewidth":992,
          "margin":0,
          "name":"explosion",
          "properties":[
