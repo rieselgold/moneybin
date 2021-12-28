@@ -872,8 +872,8 @@
                  "type":"variable",
                  "visible":true,
                  "width":0,
-                 "x":624.333,
-                 "y":141.667
+                 "x":686.333,
+                 "y":87.667
                 }, 
                 {
                  "height":0,
@@ -1122,6 +1122,23 @@
                  "width":95,
                  "x":737,
                  "y":262.75
+                }, 
+                {
+                 "height":60,
+                 "id":14,
+                 "name":"parrot",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"oYMgKpqztn3QU6RFOHr1BdaQtMjbviWBWEATbQfbw7XLeP0NtS"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":93.6666666666666,
+                 "x":577,
+                 "y":96.3333333333333
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1334,7 +1351,7 @@
          "y":0
         }],
  "nextlayerid":116,
- "nextobjectid":14,
+ "nextobjectid":15,
  "orientation":"orthogonal",
  "properties":[
         {
