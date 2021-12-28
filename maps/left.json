@@ -402,7 +402,7 @@
          "name":"Bushes2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":44,
          "x":0,
          "y":0
