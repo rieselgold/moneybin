@@ -1156,6 +1156,23 @@
                  "width":0,
                  "x":208.333,
                  "y":229.5
+                }, 
+                {
+                 "height":63.3333333333333,
+                 "id":15,
+                 "name":"RubberDuckie",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"q9h1N4LTOoMKtAlqbyi2vfOWwaQiXEgiI9gZnK544eQh23yKxk"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":45.3333333333334,
+                 "x":552.666666666667,
+                 "y":375.333333333333
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1428,7 +1445,7 @@
          "y":0
         }],
  "nextlayerid":122,
- "nextobjectid":15,
+ "nextobjectid":16,
  "orientation":"orthogonal",
  "properties":[
         {
