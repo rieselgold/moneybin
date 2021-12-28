@@ -106,12 +106,12 @@
                 {
                  "name":"doorVariable",
                  "type":"string",
-                 "value":"wcRight"
+                 "value":"brokenTicker"
                 }, 
                 {
                  "name":"zone",
                  "type":"string",
-                 "value":"wcRightZone"
+                 "value":"brokenTickerZone"
                 }],
          "type":"tilelayer",
          "visible":true,
