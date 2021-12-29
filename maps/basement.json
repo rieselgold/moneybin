@@ -719,7 +719,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":" "
+                 "value":"\"Dungeon Tileset\" by HorusKDI is licensed under CC0: https:\/\/opengameart.org\/content\/dungeon-tileset-4"
                 }],
          "spacing":0,
          "tilecount":64,
