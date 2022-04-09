@@ -12,7 +12,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/main.json"
+                 "value":"..\/main.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -288,6 +288,11 @@
  "orientation":"orthogonal",
  "properties":[
         {
+         "name":"contentWarnings",
+         "type":"string",
+         "value":" "
+        }, 
+        {
          "name":"mapCopyright",
          "type":"string",
          "value":"\"The Money Bin\" by Thoddi is licensed unter CC BY-NC-SA 4.0"
@@ -323,7 +328,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"\"Map Utilities\" by Workadventure"
+                 "value":"\"Map Utilities\" by CCCV GmbH is licensed under CC0"
                 }],
          "spacing":0,
          "tilecount":9,
