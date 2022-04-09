@@ -10,11 +10,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"contentWarnings",
-                 "type":"string",
-                 "value":" "
-                }, 
-                {
                  "name":"exitUrl",
                  "type":"string",
                  "value":"..\/main.json#start"
