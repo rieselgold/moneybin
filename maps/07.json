@@ -12,7 +12,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/main.json"
+                 "value":"..\/main.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -730,6 +730,11 @@
  "nextobjectid":6,
  "orientation":"orthogonal",
  "properties":[
+        {
+         "name":"contentWarnings",
+         "type":"string",
+         "value":" "
+        }, 
         {
          "name":"mapCopyright",
          "type":"string",

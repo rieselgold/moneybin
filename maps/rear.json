@@ -414,6 +414,11 @@
  "orientation":"orthogonal",
  "properties":[
         {
+         "name":"contentWarnings",
+         "type":"string",
+         "value":" "
+        }, 
+        {
          "name":"mapCopyright",
          "type":"string",
          "value":"\"The Money Bin\" by Thoddi is licensed unter CC BY-NC-SA 4.0"

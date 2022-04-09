@@ -12,7 +12,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/main.json"
+                 "value":"..\/main.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -989,7 +989,7 @@
                  "type":"variable",
                  "visible":true,
                  "width":0,
-                 "x":1059.333,
+                 "x":1059.33,
                  "y":483
                 }, 
                 {
@@ -1448,6 +1448,11 @@
  "nextobjectid":16,
  "orientation":"orthogonal",
  "properties":[
+        {
+         "name":"contentWarnings",
+         "type":"string",
+         "value":" "
+        }, 
         {
          "name":"mapCopyright",
          "type":"string",
