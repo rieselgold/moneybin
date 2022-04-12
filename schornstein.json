@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json#start2"
+                 "value":"schornstein.json#start2"
                 }],
          "type":"tilelayer",
          "visible":true,
