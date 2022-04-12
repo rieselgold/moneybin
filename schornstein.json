@@ -124,7 +124,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"man.json#startSchornstein"
+                 "value":"main.json#startSchornstein"
                 }],
          "type":"tilelayer",
          "visible":true,
