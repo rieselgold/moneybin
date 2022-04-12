@@ -528,7 +528,7 @@
         {
          "name":"script",
          "type":"string",
-         "value":"https:\/\/world.di.c3voc.de\/mapscripts\/default\/script.js"
+         "value":"https:\/\/unpkg.com\/@workadventure\/scripting-api-extra@^1\/dist\/bundle.js"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
@@ -660,7 +660,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"\"Cloud\" by nyarlko is licensed unter CC0: https:\/\/opengameart.org\/content\/cloud-1"
+                 "value":"\"Cloud\" by nyarlko is licensed under CC0: https:\/\/opengameart.org\/content\/cloud-1"
                 }],
          "spacing":0,
          "tilecount":40,
