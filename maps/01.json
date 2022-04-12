@@ -871,7 +871,7 @@
          "name":"Guards+Cannons",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":51,
          "x":0,
          "y":0
