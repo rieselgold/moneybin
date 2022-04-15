@@ -662,7 +662,7 @@
          "name":"defenseClose1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":51,
          "x":0,
          "y":0
